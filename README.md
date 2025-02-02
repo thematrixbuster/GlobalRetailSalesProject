@@ -45,4 +45,3 @@ With these insights, retail stakeholders could:
 
 Conclusion
 By leveraging Power Query and Power BI, this project turned raw data into actionable insights, enabling data-driven decisions to optimize operations and drive growth. It demonstrated the transformative power of data analytics in unlocking value and identifying opportunities in the competitive retail landscape.
-![image](https://github.com/user-attachments/assets/f10741b4-4030-4387-a0e1-6d2a080a103a)
