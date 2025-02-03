@@ -26,7 +26,7 @@ Visualizations, including KPI cards, bar charts, and column charts, were used to
 
 The next phase focused on the lifeblood of retail. The customers were segmented using the RFM analysis. By analyzing purchase patterns, I identified high-value customers, new customers, repeat buyers, occasional buyers, at risk customers and their geographic distribution.
 Using a tree map, I highlighted the top 10 customers by sales value. The majority (six) were based in the United Kingdom, which was the dominant market overall.
-Customer segmentation using RFM Analysis: RFM (recency, frequency and monetary)  analysis showed that 39.5% of purchases were made by repeat buyers, 24% were by new customers and 7.5% were high value customers.    
+Customer segmentation using RFM Analysis: RFM (recency, frequency and monetary) analysis showed that 24.4% of purchases were made by repeat buyers (accounting for 6.31% of purchases), 75.58% were by one-time customers (accounting for 93.69% of purchases).    
 Geographic Distribution: The UK led in repeat purchases, with 2,000 repeat customers making over 48,400 purchases. France and Germany also showed potential for growth, despite having fewer repeat buyers.
 These insights were visualized using pie charts, and tree maps, providing a clear view of customer dynamics.
 
@@ -55,7 +55,7 @@ With these insights, retail stakeholders could:
 3.	Leverage seasonal trends for strategic campaigns, especially during Q4 and November.
 4.	Invest in growth markets like France and Germany, while re-engaging declining markets like the UK and EIRE.
 
-**Conclusion**
-
+**Conclusion
+**
 
 By leveraging Power Query and Power BI, this project turned raw data into actionable insights, enabling data-driven decisions to optimize operations and drive growth. It demonstrated the transformative power of data analytics in unlocking value and identifying opportunities in the competitive retail landscape.
