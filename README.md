@@ -21,9 +21,9 @@ Visualizations, including KPI cards, bar charts, and column charts, were used to
 
 **Customer Segmentation and Insights**
 
-The next phase focused on the lifeblood of retail. The customers were segmented using the RFM analysis. By analyzing purchase patterns, I identified high-value customers, new customers, repeat buyers, occasional buyers, at risk customers and their geographic distribution.
+The next phase focused on the heartbeat of retail. The customers were segmented using the RFM analysis. By analyzing purchase patterns, I identified high-value customers, new customers, repeat buyers, occasional buyers, at risk customers and their geographic distribution.
 Using a tree map, I highlighted the top 10 customers by sales value. The majority (six) were based in the United Kingdom, which was the dominant market overall.
-Customer segmentation using RFM Analysis: RFM (recency, frequency and monetary) analysis showed that 24.4% of purchases were made by repeat buyers (accounting for 6.31% of purchases), 75.58% were by one-time customers (accounting for 93.69% of purchases).    
+Customer segmentation using RFM Analysis: RFM (recency, frequency and monetary) analysis showed that 24.4% of customers were repeat buyers (accounting for 6.31% of purchases and $731600 in sales), 75.58% of customers were one-time buyers (accounting for 93.69% of purchases and 17M in sales).   The high value customers (Champions, Loyal, promising, can’t lose them and potential loyalists) contributed $14.7M in sales. The seasonal shoppers (Need Attention, About to sleep, Hibernating Customers and At Risk) contributed $2.3M in sales.
 Geographic Distribution: The UK led in repeat purchases, with 2,000 repeat customers making over 48,400 purchases. France and Germany also showed potential for growth, despite having fewer repeat buyers.
 These insights were visualized using pie charts, and tree maps, providing a clear view of customer dynamics.
 
